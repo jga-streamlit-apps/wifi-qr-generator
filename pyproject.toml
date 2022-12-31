@@ -33,6 +33,7 @@ classifiers = [  #! Update me
 python = "^3.11"
 streamlit = "^1.16.0"
 segno = "^1.5.2"
+pillow = "^9.3.0"
 
 [tool.poetry.group.dev.dependencies]
 bandit = "^1.7.1"

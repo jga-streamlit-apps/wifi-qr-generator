@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore Emacs backup files
+*~
+
+# Ignore Emacs auto-save files
+# These files are created when you save a file in Emacs and begin with a # symbol followed by a period
+.#*
+
+# Ignore Emacs byte-compiled files
+*.elc
+
+# Ignore Emacs lock files
+*.lock
+
+# Ignore Emacs process files
+*.pid
