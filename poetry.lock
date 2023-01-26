@@ -2,14 +2,14 @@
 
 [[package]]
 name = "altair"
-version = "4.2.0"
+version = "4.2.1"
 description = "Altair: A declarative statistical visualization library for Python."
 category = "main"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "altair-4.2.0-py3-none-any.whl", hash = "sha256:0c724848ae53410c13fa28be2b3b9a9dcb7b5caa1a70f7f217bd663bb419935a"},
-    {file = "altair-4.2.0.tar.gz", hash = "sha256:d87d9372e63b48cd96b2a6415f0cf9457f50162ab79dc7a31cd7e024dd840026"},
+    {file = "altair-4.2.1-py3-none-any.whl", hash = "sha256:67e099a651c78028c4e135e3b5bd9680ed7dd928ca7b61c9c7376c58e41d2b02"},
+    {file = "altair-4.2.1.tar.gz", hash = "sha256:4939fd9119c57476bf305af9ca0bd1aa7779b2450b874d3623660e879d0fcad1"},
 ]
 
 [package.dependencies]
