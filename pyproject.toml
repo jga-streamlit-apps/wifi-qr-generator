@@ -38,7 +38,7 @@ pillow = "^9.3.0"
 [tool.poetry.group.dev.dependencies]
 bandit = "^1.7.4"
 black = {version = "^23.1a1", allow-prereleases = true}
-commitizen = "^2.38.0"
+commitizen = "^2.42.1"
 coverage = "^7.0.3"
 coverage-badge = "^1.1.0"
 darglint = "^1.8.1"
