@@ -36,7 +36,7 @@ segno = "^1.5.2"
 pillow = "^9.3.0"
 
 [tool.poetry.group.dev.dependencies]
-bandit = "^1.7.4"
+bandit = "^1.7.5"
 black = {version = "^23.1a1", allow-prereleases = true}
 commitizen = "^2.38.0"
 coverage = "^7.0.3"
