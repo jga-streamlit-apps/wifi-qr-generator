@@ -39,7 +39,7 @@ pillow = "^9.3.0"
 bandit = "^1.7.4"
 black = {version = "^23.1a1", allow-prereleases = true}
 commitizen = "^2.38.0"
-coverage = "^7.0.3"
+coverage = "^7.2.2"
 coverage-badge = "^1.1.0"
 darglint = "^1.8.1"
 isort = {extras = ["colors"], version = "^5.11.4"}
